@@ -84,6 +84,7 @@ Run using
 ```
 streamlit run Login.py
 ```
-contributors
+### Contributors 
 Jaismeen Kaur 230121030
+---
 Shrish Uttarwar 230101108
