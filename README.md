@@ -23,7 +23,7 @@ A match is flagged if similarity exceeds a defined threshold.
 -  **TF-IDF Vectorization**  
 -  **Cosine Similarity** for comparison
 
-### 4. ⚙️ Auto-Grading with Test Cases  
+### 4. Auto-Grading with Test Cases  
 - Runs submitted code against provided test cases.  
 - Compares outputs and shows pass/fail status.  
 - Displays any syntax errors for quick debugging.
