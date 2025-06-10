@@ -19,19 +19,19 @@ Evaluators can check for code similarity using a **custom-built plagiarism check
 A match is flagged if similarity exceeds a defined threshold.
 
 **How it works:**
-- ✅ **Porter Stemming** to normalize text  
-- ✅ **TF-IDF Vectorization**  
-- ✅ **Cosine Similarity** for comparison
+-  **Porter Stemming** to normalize text  
+-  **TF-IDF Vectorization**  
+-  **Cosine Similarity** for comparison
 
 ### 4. ⚙️ Auto-Grading with Test Cases  
 - Runs submitted code against provided test cases.  
 - Compares outputs and shows pass/fail status.  
 - Displays any syntax errors for quick debugging.
 
-### 5. 📊 Review & Feedback  
+### 5.  Review & Feedback  
 The system evaluates:
-- ✅ 75 points for Test Case Accuracy  
-- ✅ 25 points for Code Quality & Documentation
+- 75 points for Test Case Accuracy  
+- 25 points for Code Quality & Documentation
 
 **C++ Code Quality Metrics:**
 -  Comment-to-code ratio  
@@ -63,7 +63,7 @@ The system evaluates:
 | `s001`  | `password` |
 | `s002`       | `password` |
 
-### 🎓 TA Accounts:
+### TA Accounts:
 | Username     | Password   |
 |--------------|------------|
 | `ta001`      | `password` |
@@ -71,12 +71,12 @@ The system evaluates:
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
-### 📌 Requirements
+###  Requirements
 - Python 3.10
 
-### 📥 Install Dependencies
+###  Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
